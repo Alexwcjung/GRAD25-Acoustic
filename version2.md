@@ -160,11 +160,14 @@ Participants heard three audio stimuli in each trial: A, B, and X.
 
 The mean accuracy score for /ʊ/-related ABX trials will be calculated per participant.
 
-#### B. Inferential Statistics
+#### B. Inferential Statistics : One-sample t-test – ABX Perception Accuracy vs. Chance Level (50%)
+### Example Table
 
-A repeated measures ANOVA may be conducted to examine overall differences in perception accuracy among the three vowel pairs (/ʊ/-/u/, /ʊ/-/o/, /u/-/o/).  
-However, since the goal is to examine learners’ perception of **/ʊ/** specifically, only their accuracy on /ʊ/-related contrasts (e.g., /ʊ/-/u/, /ʊ/-/o/) will be averaged and used in the correlation analysis in Step 3.  
-**Post-hoc comparisons will not be conducted**, as the specific pairwise differences are not the focus of this study.
+| Vowel Pair   | Mean Accuracy (%) | t-value | df | p-value | Interpretation                                |
+|--------------|--------------------|---------|----|---------|-----------------------------------------------|
+| /ʊ/-/u/      | 68.2               | 4.35    | 19 | .0003   | Significantly above chance → discrimination successful |
+| /ʊ/-/o/      | 55.6               | 1.89    | 19 | .075    | Not significantly different from chance → possible confusion |
+
 
 > The average accuracy on /ʊ/-related ABX items will serve as each participant’s **perception score of /ʊ/**.
 
