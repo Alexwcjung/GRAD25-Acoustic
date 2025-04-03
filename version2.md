@@ -68,7 +68,7 @@ To statistically evaluate these differences, a **one-sample t-test** was conduct
 This analysis allowed us to determine not only the direction of deviation (e.g., more back or lower), but also whether such deviations were **statistically meaningful**.
 
 
-### Example Table: One-sample t-test Results – Learner vs. Native F1/F2 (for /ʊ/)
+>#### Example Table: One-sample t-test Results – Learner vs. Native F1/F2 (for /ʊ/)
 
 | Measure | Native Mean (Hz) | Learner Mean (Hz) | SD (Learner) | t-value | df | p-value | Interpretation |
 |---------|------------------|--------------------|--------------|---------|----|---------|----------------|
