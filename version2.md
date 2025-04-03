@@ -159,7 +159,6 @@ However, since the goal is to examine learners’ perception of **/ʊ/** specifi
 - This test is appropriate if both variables are continuous and normally distributed.
 - The analysis will determine whether there is a statistically significant linear association between the two skills (perception and production) for the target vowel.
 
----
 
 ### 3.3. Expected Results and Interpretation
 
