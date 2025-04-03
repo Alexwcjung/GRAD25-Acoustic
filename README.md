@@ -127,19 +127,36 @@ Participants heard three audio stimuli in each trial: A, B, and X.
 
 ### 2.4. Statistical Analysis
 
-**Goal**: Compare discrimination accuracy across vowel pairs.
+#### A. Descriptive Statistics
 
-#### Analysis Type: Repeated Measures ANOVA (RMA)
+The average accuracy scores were calculated for each vowel pair to summarize participants’ perceptual performance.
 
 | Vowel Pair   | Accuracy (%) Example |
 |--------------|----------------------|
 | /ʊ/-/u/      | 66.7%                |
 | /ʊ/-/o/      | 52.0%                |
-| /u/-/o/      | 80.3%                
+| /u/-/o/      | 80.3%                |
 
-**Interpretation Example**  
-> Participants performed significantly worse on /ʊ/-/o/ discrimination than on /ʊ/-/u/ and /u/-/o/.  
-> → Suggests /ʊ/ and /o/ are the most confusable pair.
+---
+
+#### B. Inferential Statistics: Repeated Measures ANOVA (RMA)
+
+A repeated measures ANOVA will be conducted to determine whether the accuracy differences between vowel pairs are statistically significant.
+
+- **Dependent variable**: Accuracy score (%) — continuous data
+- **Independent variable**: Vowel pair (/ʊ/-/u/, /ʊ/-/o/, /u/-/o/) — categorical (3 levels)
+- **Design**: Within-subjects — all participants complete all vowel pair conditions
+
+**Why RMA is appropriate:**
+
+| Condition                          | Met? | Explanation                                                     |
+|-----------------------------------|------|-----------------------------------------------------------------|
+| Dependent variable: Continuous    | ✅   | Accuracy scores (%) are numeric and continuous                  |
+| Independent variable: Categorical | ✅   | Vowel pair is a categorical variable with three conditions      |
+| Within-subject design             | ✅   | Each participant is tested on all three vowel pair combinations |
+
+**Interpretation Example**:  
+If /ʊ/-/o/ accuracy is significantly lower than the others (*p* < .05), it would suggest that this pair is the most confusable among Korean learners.
 
 
 ### Why use Repeated Measures ANOVA (RMA)
