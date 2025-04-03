@@ -88,7 +88,7 @@ Both **Chi-square** and **ANOVA** are inferential statistical tests that determi
 | **Chi-square** | Which vowel is most frequently produced by learners? | → Tests whether the difference in production frequency is statistically significant (i.e., not due to chance) |
 | **ANOVA**      | How do the learners' vowel productions differ acoustically? | → Tests whether the mean F1/F2 values of [ʊ], [u], and [o] differ significantly |
 
-
+--------------
 ## Step 2. Perception Task (ABX Test)
 
 ### RQ2:  To what extent can Korean learners perceptually discriminate between the vowels **/ʊ/**, **/u/**, and **/o/** in English?
