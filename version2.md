@@ -57,15 +57,28 @@ Each sentence was designed to place the target vowel in a natural sentence conte
 
 ### 1.2. Acoustic Analysis
 
-All recordings were segmented and analyzed using **Praat**. The target vowel in each word was isolated, and its **F1** and **F2** values were measured at the temporal midpoint.
+All recordings were segmented and analyzed using **Praat**.  
+For each token, the target vowel was manually isolated, and its **F1** and **F2** values were measured at the **temporal midpoint**, where the formant frequencies are typically most stable.
 
-A reference vowel space was established using **native-speaker values**, against which learner productions were compared.
+To assess vowel accuracy, a **reference vowel space** was established based on **native-speaker mean F1 and F2 values** (e.g., Hillenbrand et al., 1995).  
+Learners’ vowel realizations were compared to these reference values to determine the degree of phonetic deviation.
 
-  | Vowel | F1 (Height) | F2 (Backness) | Notes                                |
-  |-------|-------------|----------------|--------------------------------------|
-  | /ʊ/   | Medium       | Medium–Low      | Short, lax vowel                     |
-  | /u/   | Low          | Low             | Long, tense vowel                    |
-  | /o/   | Medium       | Higher than /u/ | Often realized as a diphthong (/oʊ/) |
+To statistically evaluate these differences, a **one-sample t-test** was conducted to test whether the mean F1 and F2 values of the learners’ productions significantly differed from the native-speaker norms.
+
+This analysis allowed us to determine not only the direction of deviation (e.g., more back or lower), but also whether such deviations were **statistically meaningful**.
+
+
+### 📊 Example Table: One-sample t-test Results – Learner vs. Native F1/F2 (for /ʊ/)
+
+| Measure | Native Mean (Hz) | Learner Mean (Hz) | SD (Learner) | t-value | df | p-value | Interpretation |
+|---------|------------------|--------------------|--------------|---------|----|---------|----------------|
+| **F1**  | 440              | 480                | 35           | 2.62    | 9  | .028     | Learners’ F1 is significantly higher → /ʊ/ is realized as a lower vowel |
+| **F2**  | 1020             | 950                | 40           | -3.12   | 9  | .012     | Learners’ F2 is significantly lower → /ʊ/ is realized as a more back vowel |
+
+###  Interpretation Notes
+
+- **Higher F1** → The tongue is lower → The vowel is produced more like a **low vowel**.
+- **Lower F2** → The tongue is farther back → The vowel is produced more like a **back vowel**.
 
 
 
