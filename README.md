@@ -50,6 +50,21 @@ The formant values (**F1** and **F2**) were extracted at the temporal midpoint o
 | **[u]**      | 90        |
 | **[o]**      | 50        |
 
+### 1.4. Summary: Why Use Both Chi-Square and ANOVA?
+
+Using both statistical methods allows for a more complete understanding of learners’ production errors.
+
+| Analysis Type       | Purpose                                              | Example Interpretation                         |
+|---------------------|------------------------------------------------------|------------------------------------------------|
+| **Chi-square test** | To explain **quantitative trends** in error distribution | "Learners most frequently substituted /u/ for /ʊ/" |
+| **ANOVA (F1/F2)**   | To explain the **qualitative acoustic properties** of those errors | "Lower F2 values suggest that productions resembled [u]" |
+
+
+> ✅ **Which vowel learners tend to substitute most often** (Chi-square)  
+> ✅ **How acoustically distinct or similar those substitutions are** (ANOVA)
+
+This dual approach provides insight into both the **frequency** and the **phonetic nature** of substitution errors.
+
 ---
 
 #### B. Inferential Statistics
