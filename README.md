@@ -43,7 +43,8 @@ A reference vowel space was established using **native-speaker values**, against
 ### 1.3. Statistical Analysis
 
 #### A. Descriptive Statistics
-
+> **Example**:  
+>
   | Realized Vowel | Frequency |
   |----------------|-----------|
   | [ʊ]            | 160       |
