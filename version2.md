@@ -25,110 +25,98 @@ This study aims to investigate whether Korean learners of English can accurately
 
 
 ---
-### 🐳 Step 1. Production Task
+## 🐳 Step 1. Production Task
 
-#### RQ1: To what extent do Korean learners accurately produce the English vowel **/ʊ/**, and how often is it substituted with **[u]** or **[o]**?
+### RQ1: To what extent do Korean learners accurately produce the English vowel **/ʊ/**, and how often is it substituted with **[u]** or **[o]**?
+
 
 ### 1.1. Task Procedure
 
 #### ⚠️ Minimizing Experimental Awareness Effects
 
 In speech experiments, participants’ awareness of the experimental focus can influence their performance.  
-If learners are aware that their pronunciation of a specific sound is being evaluated, they may consciously monitor or exaggerate their articulation — a phenomenon known as the **task awareness effect** or **experimenter effect**. 
+If learners know their pronunciation is being evaluated, they may consciously monitor or exaggerate their articulation — a phenomenon known as the **task awareness effect** or **experimenter effect**.
 
-To avoid this bias, two key strategies were employed:
+To reduce this bias, two strategies were employed:
 
-1. **The target vowel /ʊ/ was not disclosed to participants.**  
-   The task was introduced as a general reading activity without any mention of vowel pronunciation. This ensured that learners’ speech remained natural and unmonitored.
+1. **The target vowel /ʊ/ was not disclosed** to participants.  
+   The task was introduced as a general reading activity, with no mention of vowel pronunciation, ensuring more natural speech.
 
-2. **The production task was conducted before the perception task.**  
-   Conducting the ABX perception task first may sensitize participants to subtle vowel differences, especially /ʊ/, /u/, and /o/. To avoid this potential priming effect, the production task was administered **before** the perception task.
+2. **The production task was conducted before the perception task** to avoid priming.  
+   Conducting the ABX test first could sensitize participants to vowel contrasts (e.g., /ʊ/, /u/, /o/). Performing the production task first prevented such awareness from affecting pronunciation.
 
 #### 🎤 Recording Procedure
 
-Participants were asked to read aloud 5–6 English sentences, each containing a word with the vowel **/ʊ/**.
-
+Participants read aloud 5–6 English sentences, each containing a target word with the vowel **/ʊ/**.  
 Target words included: *book*, *foot*, *good*, *could*, *would*
 
 > **Example sentence**:  
 > *I would like to buy the book now.*
 
-Each sentence was designed to place the target vowel in a natural sentence context.
+Each sentence was designed to embed the vowel in a natural sentence context.
+
 
 ### 1.2. Acoustic Analysis
 
 All recordings were segmented and analyzed using **Praat**.  
-For each token, the target vowel was manually isolated, and its **F1** and **F2** values were measured at the **temporal midpoint**, where the formant frequencies are typically most stable.
+The target vowel in each token was isolated, and its **F1** and **F2** values were measured at the **temporal midpoint**, where the formant frequencies are most stable.
 
-To assess vowel accuracy, a **reference vowel space** was established based on **native-speaker mean F1 and F2 values** (e.g., Hillenbrand et al., 1995).  
-Learners’ vowel realizations were compared to these reference values to determine the degree of phonetic deviation.
+To assess vowel accuracy, a **reference vowel space** was established using native-speaker mean F1 and F2 values (e.g., Hillenbrand et al., 1995).  
+Learners’ vowel realizations were compared to these reference values to evaluate phonetic deviation.
 
-To statistically evaluate these differences, a **one-sample t-test** was conducted to test whether the mean F1 and F2 values of the learners’ productions significantly differed from the native-speaker norms.
+To determine whether these deviations were **statistically significant**, a **one-sample t-test** was conducted for each formant.  
+This test compared the learners’ mean F1 and F2 values for /ʊ/ with the corresponding native-speaker norms.
 
-This analysis allowed us to determine not only the direction of deviation (e.g., more back or lower), but also whether such deviations were **statistically meaningful**.
-
-
->#### Example Table: One-sample t-test Results – Learner vs. Native F1/F2 (for /ʊ/)
-
-| Measure | Native Mean (Hz) | Learner Mean (Hz) | SD (Learner) | t-value | df | p-value | Interpretation |
-|---------|------------------|--------------------|--------------|---------|----|---------|----------------|
-| **F1**  | 440              | 480                | 35           | 2.62    | 9  | .028     | Learners’ F1 is significantly higher → /ʊ/ is realized as a lower vowel |
-| **F2**  | 1020             | 950                | 40           | -3.12   | 9  | .012     | Learners’ F2 is significantly lower → /ʊ/ is realized as a more back vowel |
-
-###  Interpretation Notes
-
-- **Higher F1** → The tongue is lower → The vowel is produced more like a **low vowel**.
-- **Lower F2** → The tongue is farther back → The vowel is produced more like a **back vowel**.
-
+This allowed us to assess not only whether the vowel was produced differently, but also whether the difference was meaningful in an inferential sense.
 
 
 ### 1.3. Statistical Analysis
 
 #### A. Descriptive Statistics
-> **Example**:  
->
->  | Realized Vowel | Frequency |
->  |----------------|-----------|
->  | [ʊ]            | 90       |
->  | [u]            | 160        |
->  | [o]            | 50        |
+
+The number of times each vowel was realized (i.e., perceived as [ʊ], [u], or [o]) was calculated:
+
+| Realized Vowel | Frequency |
+|----------------|-----------|
+| [ʊ]            | 90        |
+| [u]            | 160       |
+| [o]            | 50        |
 
 #### B. Inferential Statistics
 
 ##### (1) Chi-Square Test
 
 **Purpose**  
-A chi-square test will be conducted to determine whether the frequency distribution of vowel substitutions ([ʊ], [u], [o]) differs significantly from what would be expected by chance.
-If a statistically significant difference is found (e.g., χ² = 15.3, p < .01), this would suggest that learners substitute [u] for /ʊ/ more frequently than expected, reflecting a systematic substitution pattern
+To determine whether the frequency distribution of vowel substitutions ([ʊ], [u], [o]) differs significantly from what would be expected by chance.  
+If a statistically significant result is obtained (e.g., χ² = 15.3, *p* < .01), it suggests a systematic substitution pattern (e.g., learners substituting [u] for /ʊ/ more frequently than expected).
 
-
-##### (2) One-Way ANOVA (F1/F2 Analysis)
+##### (2) One-sample t-test (F1 and F2)
 
 **Purpose**  
-To test whether the **acoustic realizations** of [ʊ], [u], and [o] are significantly different in terms of **F1 and F2** values.
+To examine whether learners’ mean F1 and F2 values for /ʊ/ significantly differ from native-speaker norms.  
+This identifies whether the vowel is acoustically more open (F1↑), more back (F2↓), or both.
 
-> **Example**:  
+###### Example Table: One-sample t-test Results – Learner vs. Native F1/F2 (for /ʊ/)
 
-| Realized Vowel | Mean F1 (Hz) | Mean F2 (Hz) |
-|----------------|--------------|--------------|
-| **[ʊ]**         | 450          | 1100         |
-| **[u]**         | 350          | 900          |
-| **[o]**         | 500          | 1050         |
+| Measure | Native Mean (Hz) | Learner Mean (Hz) | SD (Learner) | t-value | df | p-value | Interpretation |
+|---------|------------------|--------------------|--------------|---------|----|---------|----------------|
+| **F1**  | 440              | 480                | 35           | 2.62    | 9  | .028     | Learners’ F1 is significantly higher → /ʊ/ is realized as a lower vowel |
+| **F2**  | 1020             | 950                | 40           | -3.12   | 9  | .012     | Learners’ F2 is significantly lower → /ʊ/ is realized as a more back vowel |
 
+###### Interpretation Notes
 
-- **Dependent Variable**: F1 or F2
-- **Independent Variable**: Realized vowel category ([ʊ], [u], [o])
-- **Statistical Test**: One-way ANOVA
+- **Higher F1** → The tongue is lower → The vowel is produced more like a **low vowel**
+- **Lower F2** → The tongue is farther back → The vowel is produced more like a **back vowel**
 
+📌 These results suggest that Korean learners tend to realize /ʊ/ with a more open and back articulation, making it acoustically closer to **/o/** or **/u/**.
 
-### 1.4. Summary: What Do Chi-Square and ANOVA Test?
+### 1.4. Summary: What Do Chi-Square and One-sample t-test Tell Us?
 
-Both **Chi-square** and **ANOVA** are inferential statistical tests that determine whether learners’ vowel substitutions are **statistically meaningful**, rather than due to chance.
+| Analysis             | Research Focus                                      | Explanation |
+|----------------------|------------------------------------------------------|-------------|
+| **Chi-square**       | Which vowel is most frequently produced by learners? | → Tests whether substitution frequencies differ significantly from chance |
+| **One-sample t-test**| How do learners' vowel realizations differ acoustically from native norms? | → Tests whether the mean F1 or F2 values of /ʊ/ differ significantly from native-speaker values |
 
-| Analysis     | Research Question                             | Explanation                                                                 |
-|--------------|------------------------------------------------|------------------------------------------------------------------------------|
-| **Chi-square** | Which vowel is most frequently produced by learners? | → Tests whether the difference in production frequency is statistically significant (i.e., not due to chance) |
-| **ANOVA**      | How do the learners' vowel productions differ acoustically? | → Tests whether the mean F1/F2 values of [ʊ], [u], and [o] differ significantly |
 
 --------------
 ## 🐳 Step 2. Perception Task (ABX Test)
