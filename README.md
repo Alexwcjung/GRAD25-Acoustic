@@ -31,11 +31,11 @@ All recordings were segmented and analyzed using **Praat**. The target vowel in 
 
 A reference vowel space was established using **native-speaker values**, against which learner productions were compared.
 
-| Vowel | F1 (Height) | F2 (Backness) | Notes                                |
-|-------|-------------|----------------|--------------------------------------|
-| /ʊ/   | Medium       | Medium–Low      | Short, lax vowel                     |
-| /u/   | Low          | Low             | Long, tense vowel                    |
-| /o/   | Medium       | Higher than /u/ | Often realized as a diphthong (/oʊ/) |
+  | Vowel | F1 (Height) | F2 (Backness) | Notes                                |
+  |-------|-------------|----------------|--------------------------------------|
+  | /ʊ/   | Medium       | Medium–Low      | Short, lax vowel                     |
+  | /u/   | Low          | Low             | Long, tense vowel                    |
+  | /o/   | Medium       | Higher than /u/ | Often realized as a diphthong (/oʊ/) |
 
 
 
@@ -43,11 +43,11 @@ A reference vowel space was established using **native-speaker values**, against
 
 #### A. Descriptive Statistics
 
-| Realized Vowel | Frequency |
-|----------------|-----------|
-| [ʊ]            | 160       |
-| [u]            | 90        |
-| [o]            | 50        |
+  | Realized Vowel | Frequency |
+  |----------------|-----------|
+  | [ʊ]            | 160       |
+  | [u]            | 90        |
+  | [o]            | 50        |
 
 #### B. Inferential Statistics
 
