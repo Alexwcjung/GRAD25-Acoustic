@@ -13,7 +13,7 @@ This study aims to investigate whether Korean learners of English can accurately
 ---
 
 ## Step 1. Production Task
-### RQ2:  To what extent is the English vowel **/ʊ/** substituted with **/u/** or **/o/** in the speech of Korean learners, and which substitution pattern is most frequent?
+### RQ1:  To what extent is the English vowel **/ʊ/** substituted with **/u/** or **/o/** in the speech of Korean learners, and which substitution pattern is most frequent?
 
 ### 1.1. Task Procedure
 
