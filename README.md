@@ -132,13 +132,13 @@ Participants heard three audio stimuli in each trial: A, B, and X.
 | /ʊ/-/o/      | 52.0%                |
 | /u/-/o/      | 80.3%                |
 
-#### Why use RMA?
+### Why use Repeated Measures ANOVA (RMA)
 
-| Condition                       | Satisfied? | Reason |
-|--------------------------------|------------|--------|
-| DV is continuous               | ✅         | Accuracy % |
-| IV is categorical (3 vowel pairs) | ✅         | Within-subject factor |
-| Same participant, multiple conditions | ✅         | Repeated design |
+| Condition                         | Met? | Explanation                                                   |
+|----------------------------------|------|---------------------------------------------------------------|
+| **Dependent variable: Continuous**   | ✅   | Accuracy scores (%) or perception ratings are continuous data |
+| **Independent variable: Categorical** | ✅   | Vowel pair (e.g., /ʊ/-/u/, /ʊ/-/o/, /u/-/o/) is a categorical variable with 3 levels |
+| **Within-subject design**            | ✅   | Each participant completes all vowel pair conditions          |
 
 **Interpretation Example**  
 > Participants performed significantly worse on /ʊ/-/o/ discrimination than on /ʊ/-/u/ and /u/-/o/.  
