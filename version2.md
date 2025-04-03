@@ -147,8 +147,8 @@ However, since the goal is to examine learners’ perception of **/ʊ/** specifi
 
 | Variable | Description |
 |----------|-------------|
-| **X (Independent)**   | Perception accuracy of **/ʊ** — calculated as the average correct responses on ABX trials where **/ʊ/** was the target vowel |
-| **Y (Dependent)**     | Production accuracy of **/ʊ** — percentage of correctly realized **[ʊ]** tokens when **/ʊ/** was the intended target in the reading task |
+| **X (Independent)**   | Perception accuracy of **/ʊ/** — calculated as the average correct responses on ABX trials where **/ʊ/** was the target vowel |
+| **Y (Dependent)**     | Production accuracy of **/ʊ/** — percentage of correctly realized **[ʊ]** tokens when **/ʊ/** was the intended target in the reading task |
 
 
 ### 3.2. Statistical Analysis
