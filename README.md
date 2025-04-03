@@ -47,8 +47,8 @@ A reference vowel space was established using **native-speaker values**, against
 >
 >  | Realized Vowel | Frequency |
 >  |----------------|-----------|
->  | [ʊ]            | 160       |
->  | [u]            | 90        |
+>  | [ʊ]            | 90       |
+>  | [u]            | 160        |
 >  | [o]            | 50        |
 
 #### B. Inferential Statistics
@@ -56,7 +56,8 @@ A reference vowel space was established using **native-speaker values**, against
 ##### (1) Chi-Square Test
 
 **Purpose**  
-> A chi-square test was conducted to determine whether the frequency of vowel substitutions ([ʊ], [u], [o]) differed significantly from what would be expected by chance. The >results indicated a statistically significant difference (χ² = 15.3, p < .01), suggesting that learners substituted [u] for /ʊ/ more frequently than expected, reflecting a > systematic substitution pattern.
+A chi-square test will be conducted to determine whether the frequency distribution of vowel substitutions ([ʊ], [u], [o]) differs significantly from what would be expected by chance.
+If a statistically significant difference is found (e.g., χ² = 15.3, p < .01), this would suggest that learners substitute [u] for /ʊ/ more frequently than expected, reflecting a systematic substitution pattern
 
 
 ##### (2) One-Way ANOVA (F1/F2 Analysis)
