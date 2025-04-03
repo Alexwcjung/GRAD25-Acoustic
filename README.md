@@ -139,8 +139,6 @@ The average accuracy scores were calculated for each vowel pair to summarize par
 | /ʊ/-/o/      | 52.0%                |
 | /u/-/o/      | 80.3%                |
 
----
-
 #### B. Inferential Statistics: Repeated Measures ANOVA (RMA)
 
 A repeated measures ANOVA will be conducted to determine whether the accuracy differences between vowel pairs are statistically significant.
