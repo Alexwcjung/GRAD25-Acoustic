@@ -38,6 +38,7 @@ A reference vowel space was established using **native-speaker values**, against
 | /o/   | Medium       | Higher than /u/ | Often realized as a diphthong (/oʊ/) |
 
 
+
 ### 1.3. Statistical Analysis
 
 #### A. Descriptive Statistics
