@@ -65,12 +65,18 @@ If a statistically significant difference is found (e.g., χ² = 15.3, p < .01),
 **Purpose**  
 To test whether the **acoustic realizations** of [ʊ], [u], and [o] are significantly different in terms of **F1 and F2** values.
 
+> **Example**:  
+
+| Realized Vowel | Mean F1 (Hz) | Mean F2 (Hz) |
+|----------------|--------------|--------------|
+| **[ʊ]**         | 450          | 1100         |
+| **[u]**         | 350          | 900          |
+| **[o]**         | 500          | 1050         |
+
+
 - **Dependent Variable**: F1 or F2
 - **Independent Variable**: Realized vowel category ([ʊ], [u], [o])
 - **Statistical Test**: One-way ANOVA
-
-**Interpretation Example**  
-> "F2 values showed a significant difference between [ʊ] and [u], but not between [ʊ] and [o]. This suggests that learners’ productions of [ʊ] were acoustically closer to [o] than to [u]."
 
 
 ### 1.4. Summary: What Do Chi-Square and ANOVA Test?
