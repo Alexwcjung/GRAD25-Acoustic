@@ -46,7 +46,7 @@ The formant values (**F1** and **F2**) were extracted at the temporal midpoint o
 | **[u]**      | 90        |
 | **[o]**      | 50        |
 
-### 1.4. Summary: Why Use Both Chi-Square and ANOVA?
+### 1.4. Why Use Both Chi-Square and ANOVA?
 
 Both **Chi-square** and **ANOVA** are inferential statistical tests used to determine whether the observed substitution patterns are statistically significant — not due to chance.
 
