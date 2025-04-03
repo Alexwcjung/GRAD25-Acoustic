@@ -25,8 +25,6 @@ Target words included: *book*, *foot*, *good*, *could*, *would*
 To avoid experimental awareness, participants were told this was a simple reading task.  
 No mention of target vowels or the study's aim was given.
 
----
-
 ### 1.2. Acoustic Analysis
 
 Each vowel token was segmented and analyzed in **Praat**.  
@@ -37,8 +35,6 @@ The formant values (**F1** and **F2**) were extracted at the temporal midpoint o
 | /ʊ/   | Medium       | Medium–Low      | Short, lax vowel            |
 | /u/   | Low          | Low             | Long, tense vowel           |
 | /o/   | Medium       | Higher than /u/ | Often realized as /oʊ/ glide |
-
----
 
 ### 1.3. Statistical Analysis
 
