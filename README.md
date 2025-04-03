@@ -55,18 +55,6 @@ Both **Chi-square** and **ANOVA** are inferential statistical tests used to dete
 | **Chi-square test** | Which vowel ([ʊ], [u], [o]) is most frequently produced by learners?            | Categorical (frequency counts) | [ʊ]: 40 times, [u]: 60 times, [o]: 20 times → Is this difference statistically significant? |
 | **ANOVA (F1/F2)**   | Are the acoustic characteristics (F1 and F2) of [ʊ], [u], and [o] significantly different? | Continuous (numeric values)   | Are the mean F1 or F2 values different across vowels → Statistically significant?          |
 
----
-
-By combining both analyses, the study verifies:
-
-> ✅ Whether learners **favor certain vowel substitutions** in production (Chi-square)  
-> ✅ And whether those substitutions are **acoustically distinct** (ANOVA)
-
-
-
-> ✅ **Which vowel learners tend to substitute most often** (Chi-square)  
-> ✅ **How acoustically distinct or similar those substitutions are** (ANOVA)
-
 This dual approach provides insight into both the **frequency** and the **phonetic nature** of substitution errors.
 
 ---
