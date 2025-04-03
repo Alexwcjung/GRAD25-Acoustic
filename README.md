@@ -143,7 +143,7 @@ The average accuracy scores were calculated for each vowel pair to summarize par
 
 A repeated measures ANOVA will be conducted to determine whether the accuracy differences between vowel pairs are statistically significant.
 
-### Why use Repeated Measures ANOVA (RMA)
+# Why use Repeated Measures ANOVA (RMA)
 
 | Condition                         | Met? | Explanation                                                   |
 |----------------------------------|------|---------------------------------------------------------------|
