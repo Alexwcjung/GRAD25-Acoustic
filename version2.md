@@ -25,20 +25,37 @@ This study aims to investigate whether Korean learners of English can accurately
 
 
 ---
+### 🐳 Step 1. Production Task
 
-## 🐳 Step 1. Production Task
-### RQ1: To what extent do Korean learners accurately produce the English vowel **/ʊ/**, and how often is it substituted with [u] or [o]?
+#### RQ1: To what extent do Korean learners accurately produce the English vowel **/ʊ/**, and how often is it substituted with **[u]** or **[o]**?
 
 ### 1.1. Task Procedure
 
-- Participants were asked to read aloud 5–6 English sentences, each containing a target word with the vowel **/ʊ/**.  
+#### ⚠️ Minimizing Experimental Awareness Effects
+
+In speech experiments, participants’ awareness of the experimental focus can influence their performance.  
+If learners are aware that their pronunciation of a specific sound is being evaluated, they may consciously monitor or exaggerate their articulation — a phenomenon known as the **task awareness effect** or **experimenter effect**. 
+
+To avoid this bias, two key strategies were employed:
+
+1. **The target vowel /ʊ/ was not disclosed to participants.**  
+   The task was introduced as a general reading activity without any mention of vowel pronunciation. This ensured that learners’ speech remained natural and unmonitored.
+
+2. **The production task was conducted before the perception task.**  
+   Conducting the ABX perception task first may sensitize participants to subtle vowel differences, especially /ʊ/, /u/, and /o/. To avoid this potential priming effect, the production task was administered **before** the perception task.
+
+---
+
+#### 🎤 Recording Procedure
+
+Participants were asked to read aloud 5–6 English sentences, each containing a word with the vowel **/ʊ/**.
+
 Target words included: *book*, *foot*, *good*, *could*, *would*
 
 > **Example sentence**:  
 > *I would like to buy the book now.*
 
-- To prevent task awareness effects, the production task was introduced as a **simple reading activity**, and participants were **not informed** that the focus was on /ʊ/ or vowel pronunciation. This ensured that their speech reflected natural pronunciation patterns.
-
+Each sentence was designed to place the target vowel in a natural sentence context.
 
 ### 1.2. Acoustic Analysis
 
