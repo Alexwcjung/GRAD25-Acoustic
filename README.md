@@ -17,13 +17,13 @@ This study aims to investigate whether Korean learners of English can accurately
 
 ### 1.1. Task Procedure
 
-Participants were asked to read aloud 5–6 English sentences, each containing a target word with the vowel **/ʊ/**.  
+- Participants were asked to read aloud 5–6 English sentences, each containing a target word with the vowel **/ʊ/**.  
 Target words included: *book*, *foot*, *good*, *could*, *would*
 
 > **Example sentence**:  
 > *I would like to buy the book now.*
 
-To prevent task awareness effects, the production task was introduced as a **simple reading activity**, and participants were **not informed** that the focus was on /ʊ/ or vowel pronunciation. This ensured that their speech reflected natural pronunciation patterns.
+- To prevent task awareness effects, the production task was introduced as a **simple reading activity**, and participants were **not informed** that the focus was on /ʊ/ or vowel pronunciation. This ensured that their speech reflected natural pronunciation patterns.
 
 
 ### 1.2. Acoustic Analysis
