@@ -151,7 +151,7 @@ A repeated measures ANOVA will be conducted to determine whether the accuracy di
 | **Independent variable: Categorical** | ✅   | Vowel pair (e.g., /ʊ/-/u/, /ʊ/-/o/, /u/-/o/) is a categorical variable with 3 levels |
 | **Within-subject design**            | ✅   | Each participant completes all vowel pair conditions          |
 
-
+------
 ## 🐳Step 3. Perception–Production Correlation Analysis
 
 ### RQ3: Is there a statistically significant relationship between Korean learners’ perceptual discrimination ability and their production accuracy of /ʊ/?
