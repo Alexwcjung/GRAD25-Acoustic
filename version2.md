@@ -44,8 +44,6 @@ To avoid this bias, two key strategies were employed:
 2. **The production task was conducted before the perception task.**  
    Conducting the ABX perception task first may sensitize participants to subtle vowel differences, especially /ʊ/, /u/, and /o/. To avoid this potential priming effect, the production task was administered **before** the perception task.
 
----
-
 #### 🎤 Recording Procedure
 
 Participants were asked to read aloud 5–6 English sentences, each containing a word with the vowel **/ʊ/**.
