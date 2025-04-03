@@ -127,6 +127,8 @@ Participants heard three audio stimuli in each trial: A, B, and X.
 
 ### 2.4. Statistical Analysis
 
+**Goal**: To compare the discrimination accuracy across vowel pairs and determine whether the differences are statistically significant.
+
 #### A. Descriptive Statistics
 
 The average accuracy scores were calculated for each vowel pair to summarize participants’ perceptual performance.
@@ -146,6 +148,18 @@ A repeated measures ANOVA will be conducted to determine whether the accuracy di
 - **Dependent variable**: Accuracy score (%) — continuous data
 - **Independent variable**: Vowel pair (/ʊ/-/u/, /ʊ/-/o/, /u/-/o/) — categorical (3 levels)
 - **Design**: Within-subjects — all participants complete all vowel pair conditions
+
+**Why RMA is appropriate:**
+
+| Condition                          | Met? | Explanation                                                     |
+|-----------------------------------|------|-----------------------------------------------------------------|
+| Dependent variable: Continuous    | ✅   | Accuracy scores (%) are numeric and continuous                  |
+| Independent variable: Categorical | ✅   | Vowel pair is a categorical variable with three conditions      |
+| Within-subject design             | ✅   | Each participant is tested on all three vowel pair combinations |
+
+**Interpretation Example**:  
+If /ʊ/-/o/ accuracy is significantly lower than the others (*p* < .05), it would suggest that this pair is the most confusable among Korean learners.
+
 
 **Why RMA is appropriate:**
 
