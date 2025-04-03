@@ -13,6 +13,7 @@ This study aims to investigate whether Korean learners of English can accurately
 ---
 
 ## Step 1. Production Task
+### RQ2:  To what extent is the English vowel **/ʊ/** substituted with **/u/** or **/o/** in the speech of Korean learners, and which substitution pattern is most frequent?
 
 ### 1.1. Task Procedure
 
@@ -88,6 +89,8 @@ Both **Chi-square** and **ANOVA** are inferential statistical tests that determi
 
 ## Step 2. Perception Task (ABX Test)
 
+### RQ2:  To what extent can Korean learners perceptually discriminate between the vowels **/ʊ/**, **/u/**, and **/o/** in English?
+
 ### 2.1. Task Overview
 
 Participants heard three audio stimuli in each trial: A, B, and X.  
@@ -130,7 +133,12 @@ Participants heard three audio stimuli in each trial: A, B, and X.
 |--------------|----------------------|
 | /ʊ/-/u/      | 66.7%                |
 | /ʊ/-/o/      | 52.0%                |
-| /u/-/o/      | 80.3%                |
+| /u/-/o/      | 80.3%                
+
+**Interpretation Example**  
+> Participants performed significantly worse on /ʊ/-/o/ discrimination than on /ʊ/-/u/ and /u/-/o/.  
+> → Suggests /ʊ/ and /o/ are the most confusable pair.
+
 
 ### Why use Repeated Measures ANOVA (RMA)
 
@@ -140,9 +148,34 @@ Participants heard three audio stimuli in each trial: A, B, and X.
 | **Independent variable: Categorical** | ✅   | Vowel pair (e.g., /ʊ/-/u/, /ʊ/-/o/, /u/-/o/) is a categorical variable with 3 levels |
 | **Within-subject design**            | ✅   | Each participant completes all vowel pair conditions          |
 
-**Interpretation Example**  
-> Participants performed significantly worse on /ʊ/-/o/ discrimination than on /ʊ/-/u/ and /u/-/o/.  
-> → Suggests /ʊ/ and /o/ are the most confusable pair.
 
----
+## Step 3. Perception–Production Correlation Analysis
+
+### RQ3: Is there a statistically significant relationship between Korean learners’ perceptual discrimination ability and their production accuracy of /ʊ/?
+
+
+### 3.1. Variable Definition
+
+| Variable | Description |
+|----------|-------------|
+| **X (Independent)**   | Perception accuracy — e.g., average ABX accuracy on /ʊ/-/u/ or /ʊ/-/o/ discrimination |
+| **Y (Dependent)**     | Production accuracy — percentage of correctly realized [ʊ] tokens when /ʊ/ is the target vowel |
+
+### 3.2. Statistical Analysis
+
+**Correlation analysis**
+
+- **Pearson correlation coefficient (r)**  
+  Used if both variables are normally distributed  
+  → Measures the strength and direction of a linear relationship between perception and production scores
+
+### 3.3. Expected Results and Interpretation
+
+| Result Scenario                  | Interpretation |
+|----------------------------------|----------------|
+| **Significant positive correlation**<br>(e.g., r > .5, p < .05) | Learners who perceive /ʊ/ more accurately also produce it more accurately → Suggests perception may influence production |
+| **No significant correlation**   | Pronunciation errors may stem from other sources (e.g., articulatory difficulty, prosodic interference) |
+
+
+> ✅ This step aims to determine whether accurate perception of /ʊ/ is a predictor of accurate production — supporting the theory that perception precedes production in second language acquisition.
 
