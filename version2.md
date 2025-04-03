@@ -147,23 +147,26 @@ However, since the goal is to examine learners’ perception of **/ʊ/** specifi
 
 | Variable | Description |
 |----------|-------------|
-| **X (Independent)**   | Perception accuracy — e.g., average ABX accuracy on /ʊ/-/u/ or /ʊ/-/o/ discrimination |
-| **Y (Dependent)**     | Production accuracy — percentage of correctly realized [ʊ] tokens when /ʊ/ is the target vowel |
+| **X (Independent)**   | Perception accuracy of **/ʊ** — calculated as the average correct responses on ABX trials where **/ʊ/** was the target vowel |
+| **Y (Dependent)**     | Production accuracy of **/ʊ** — percentage of correctly realized **[ʊ]** tokens when **/ʊ/** was the intended target in the reading task |
+
 
 ### 3.2. Statistical Analysis
 
-**Correlation analysis**
+**Correlation Analysis**
 
-- **Pearson correlation coefficient (r)**  
-  Used if both variables are normally distributed  
-  → Measures the strength and direction of a linear relationship between perception and production scores
+- **Pearson correlation coefficient (r)** will be used to examine the relationship between learners’ perceptual accuracy and production accuracy of **/ʊ/**.
+- This test is appropriate if both variables are continuous and normally distributed.
+- The analysis will determine whether there is a statistically significant linear association between the two skills (perception and production) for the target vowel.
+
+---
 
 ### 3.3. Expected Results and Interpretation
 
 | Result Scenario                  | Interpretation |
 |----------------------------------|----------------|
-| **Significant positive correlation**<br>(e.g., r > .5, p < .05) | Learners who perceive /ʊ/ more accurately also produce it more accurately → Suggests perception may influence production |
-| **No significant correlation**   | Pronunciation errors may stem from other sources (e.g., articulatory difficulty, prosodic interference) |
+| **Significant positive correlation**<br>(e.g., r > .5, p < .05) | Learners who perceive **/ʊ/** more accurately also tend to produce it more accurately.<br> → Suggests that perceptual ability may influence production accuracy. |
+| **No significant correlation**   | Accurate perception of **/ʊ/** does not necessarily lead to accurate production.<br> → Production errors may arise from other factors (e.g., articulatory difficulty, L1 interference). |
 
 
 > ✅ This step aims to determine whether accurate perception of /ʊ/ is a predictor of accurate production — supporting the theory that perception precedes production in second language acquisition.
