@@ -143,30 +143,6 @@ The average accuracy scores were calculated for each vowel pair to summarize par
 
 A repeated measures ANOVA will be conducted to determine whether the accuracy differences between vowel pairs are statistically significant.
 
-**Why RMA?**
-
-| Condition                          | Met? | Explanation                                                     |
-|-----------------------------------|------|-----------------------------------------------------------------|
-| Dependent variable: Continuous    | ✅   | Accuracy scores (%) are numeric and continuous                  |
-| Independent variable: Categorical | ✅   | Vowel pair is a categorical variable with three conditions      |
-| Within-subject design             | ✅   | Each participant is tested on all three vowel pair combinations |
-
-**Interpretation Example**:  
-If /ʊ/-/o/ accuracy is significantly lower than the others (*p* < .05), it would suggest that this pair is the most confusable among Korean learners.
-
-
-**Why RMA is appropriate:**
-
-| Condition                          | Met? | Explanation                                                     |
-|-----------------------------------|------|-----------------------------------------------------------------|
-| Dependent variable: Continuous    | ✅   | Accuracy scores (%) are numeric and continuous                  |
-| Independent variable: Categorical | ✅   | Vowel pair is a categorical variable with three conditions      |
-| Within-subject design             | ✅   | Each participant is tested on all three vowel pair combinations |
-
-**Interpretation Example**:  
-If /ʊ/-/o/ accuracy is significantly lower than the others (*p* < .05), it would suggest that this pair is the most confusable among Korean learners.
-
-
 ### Why use Repeated Measures ANOVA (RMA)
 
 | Condition                         | Met? | Explanation                                                   |
