@@ -145,11 +145,23 @@ A repeated measures ANOVA will be conducted to determine whether the accuracy di
 
 ##### Why use Repeated Measures ANOVA (RMA)
 
-| Condition                         | Met? | Explanation                                                   |
-|----------------------------------|------|---------------------------------------------------------------|
-| **Dependent variable: Continuous**   | ✅   | Accuracy scores (%) or perception ratings are continuous data |
-| **Independent variable: Categorical** | ✅   | Vowel pair (e.g., /ʊ/-/u/, /ʊ/-/o/, /u/-/o/) is a categorical variable with 3 levels |
-| **Within-subject design**            | ✅   | Each participant completes all vowel pair conditions          |
+| Condition                          | Met? | Explanation                                                     |
+|-----------------------------------|------|-----------------------------------------------------------------|
+| **Dependent variable: Continuous**    | ✅   | Accuracy scores (%) or perception ratings are continuous data   |
+| **Independent variable: Categorical**| ✅   | Vowel pair (e.g., /ʊ/-/u/, /ʊ/-/o/, /u/-/o/) is a categorical variable with three levels |
+| **Within-subject design**             | ✅   | Each participant completes all vowel pair conditions            |
+
+---
+
+#### C. Post-hoc Analysis: Interpretation Example
+
+If the ANOVA reveals a significant main effect, it indicates that there is a statistically significant difference among the three vowel pairs in terms of discrimination accuracy.  
+However, it does **not specify which specific pairs** differ significantly (e.g., whether /ʊ/-/u/ differs from /ʊ/-/o/).  
+To identify the source of the difference, a **post-hoc test** will be conducted.
+
+For example, if the post-hoc test reveals that the discrimination accuracy between **/ʊ/-/o/** is significantly lower than that of **/ʊ/-/u/** (*p* < .05), it would suggest that learners have more difficulty distinguishing between /ʊ/ and /o/.  
+This result would support the claim that /ʊ/ and /o/ are perceptually more confusable for Korean learners than the other vowel pair combinations.
+
 
 ------
 ## 🐳Step 3. Perception–Production Correlation Analysis
