@@ -48,12 +48,20 @@ The formant values (**F1** and **F2**) were extracted at the temporal midpoint o
 
 ### 1.4. Summary: Why Use Both Chi-Square and ANOVA?
 
-Using both statistical methods allows for a more complete understanding of learners’ production errors.
+Both **Chi-square** and **ANOVA** are inferential statistical tests used to determine whether the observed substitution patterns are statistically significant — not due to chance.
 
-| Analysis Type       | Purpose                                              | Example Interpretation                         |
-|---------------------|------------------------------------------------------|------------------------------------------------|
-| **Chi-square test** | To explain **quantitative trends** in error distribution | "Learners most frequently substituted /u/ for /ʊ/" |
-| **ANOVA (F1/F2)**   | To explain the **qualitative acoustic properties** of those errors | "Lower F2 values suggest that productions resembled [u]" |
+| Analysis           | Research Question                                                               | Data Type              | Example                                                                 |
+|--------------------|----------------------------------------------------------------------------------|-------------------------|-------------------------------------------------------------------------|
+| **Chi-square test** | Which vowel ([ʊ], [u], [o]) is most frequently produced by learners?            | Categorical (frequency counts) | [ʊ]: 40 times, [u]: 60 times, [o]: 20 times → Is this difference statistically significant? |
+| **ANOVA (F1/F2)**   | Are the acoustic characteristics (F1 and F2) of [ʊ], [u], and [o] significantly different? | Continuous (numeric values)   | Are the mean F1 or F2 values different across vowels → Statistically significant?          |
+
+---
+
+By combining both analyses, the study verifies:
+
+> ✅ Whether learners **favor certain vowel substitutions** in production (Chi-square)  
+> ✅ And whether those substitutions are **acoustically distinct** (ANOVA)
+
 
 
 > ✅ **Which vowel learners tend to substitute most often** (Chi-square)  
