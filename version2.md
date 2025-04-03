@@ -179,8 +179,7 @@ The 50% threshold represents the **chance level** in an ABX discrimination task,
 
 
 
-> The average accuracy on /ʊ/-related ABX items will serve as each participant’s **perception score of /ʊ/**.
-
+----------
 ## 🐳Step 3. Perception–Production Correlation Analysis
 
 ### RQ3: Is there a statistically significant relationship between Korean learners’ perceptual accuracy of **/ʊ/** and their production accuracy of **/ʊ/**?
