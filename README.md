@@ -85,15 +85,7 @@ Both **Chi-square** and **ANOVA** are inferential statistical tests that determi
 | **Chi-square** | Which vowel is most frequently produced by learners? | → Tests whether the difference in production frequency is statistically significant (i.e., not due to chance) |
 | **ANOVA**      | How do the learners' vowel productions differ acoustically? | → Tests whether the mean F1/F2 values of [ʊ], [u], and [o] differ significantly |
 
----
-
-✅ **Together, these two analyses answer:**
-
-1. **Chi-square** → Are certain substitutions more frequent? (Quantitative trend)  
-2. **ANOVA** → Are the substitutions acoustically distinct? (Qualitative pattern)
-
-> 🔎 This dual approach helps verify whether learners' vowel substitutions are **systematic** and **phonetically meaningful**.
-
+------
 
 ## Step 2. Perception Task (ABX Test)
 
