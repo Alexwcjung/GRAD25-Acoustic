@@ -12,7 +12,7 @@ This study aims to investigate whether Korean learners of English can accurately
 
 ---
 
-## Step 1. Production Task
+## 🐳 Step 1. Production Task
 ### RQ1:  To what extent is the English vowel **/ʊ/** substituted with **/u/** or **/o/** in the speech of Korean learners, and which substitution pattern is most frequent?
 
 ### 1.1. Task Procedure
@@ -89,7 +89,7 @@ Both **Chi-square** and **ANOVA** are inferential statistical tests that determi
 | **ANOVA**      | How do the learners' vowel productions differ acoustically? | → Tests whether the mean F1/F2 values of [ʊ], [u], and [o] differ significantly |
 
 --------------
-## Step 2. Perception Task (ABX Test)
+## 🐳 Step 2. Perception Task (ABX Test)
 
 ### RQ2:  To what extent can Korean learners perceptually discriminate between the vowels **/ʊ/**, **/u/**, and **/o/** in English?
 
@@ -151,7 +151,7 @@ Participants heard three audio stimuli in each trial: A, B, and X.
 | **Within-subject design**            | ✅   | Each participant completes all vowel pair conditions          |
 
 
-## Step 3. Perception–Production Correlation Analysis
+## 🐳Step 3. Perception–Production Correlation Analysis
 
 ### RQ3: Is there a statistically significant relationship between Korean learners’ perceptual discrimination ability and their production accuracy of /ʊ/?
 
