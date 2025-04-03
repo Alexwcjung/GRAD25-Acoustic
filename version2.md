@@ -2,6 +2,19 @@
 
 This study aims to investigate whether Korean learners of English can accurately perceive and distinguish the vowels **/ʊ/**, **/u/**, and **/o/**, which represent subtle contrasts not present in the Korean vowel system. Since these distinctions do not exist in Korean, learners may fail to discriminate them at the perceptual level, which could lead to phonetic substitutions during production. By examining learners’ perceptual accuracy, the study seeks to determine whether perceptual difficulty is a key factor contributing to substitution errors in speech.
 
+### Comparison of /ʊ/, /u/, and /o/ in English
+
+| Feature             | /ʊ/                                          | /u/                                      | /o/ (typically /oʊ/)                     |
+|---------------------|----------------------------------------------|-------------------------------------------|-------------------------------------------|
+| **Vowel Type**      | Lax                                         | Tense                                    | Tense (often diphthongal)                 |
+| **Height (F1)**     | High                                        | High                                     | Mid                                       |
+| **Backness (F2)**   | Near-back                                   | Back                                     | Mid-back                                  |
+| **Lip Rounding**    | Rounded                                     | Rounded                                  | Rounded                                   |
+| **Length**          | Short                                       | Long                                     | Long (with glide /ʊ/ in diphthong)        |
+| **Examples**        | *book*, *good*, *could*, *would*, *foot*    | *food*, *blue*, *boot*, *school*         | *go*, *boat*, *home*, *code*              |
+| **Korean Equivalent**| No direct equivalent (between /ㅡ/ and /ㅜ/) | /ㅜ/ (as in *우*)                         | /ㅗ/ (as in *오*)                          |
+
+
 ## Research Questions
 
 **RQ1.** To what extent do Korean learners accurately produce the English vowel **/ʊ/**, and how often is it substituted with [u] or [o]?
