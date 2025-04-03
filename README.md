@@ -56,7 +56,7 @@ A reference vowel space was established using **native-speaker values**, against
 ##### (1) Chi-Square Test
 
 **Purpose**  
-To determine whether learners significantly favored certain vowel substitutions when attempting to pronounce /ʊ/.
+- To determine whether learners significantly favored certain vowel substitutions when attempting to pronounce /ʊ/.
 
 - **Null Hypothesis (H₀)**: There is **no significant difference** in substitution frequency across [ʊ], [u], and [o].
 - **Alternative Hypothesis (H₁)**: One or more substitutions (e.g., [u], [o]) occur significantly more often than others.
