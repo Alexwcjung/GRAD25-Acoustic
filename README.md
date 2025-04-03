@@ -142,6 +142,7 @@ The average accuracy scores were calculated for each vowel pair to summarize par
 #### B. Inferential Statistics: Repeated Measures ANOVA (RMA)
 
 A repeated measures ANOVA will be conducted to determine whether the accuracy differences between vowel pairs are statistically significant.
+
 **Why RMA?**
 
 | Condition                          | Met? | Explanation                                                     |
