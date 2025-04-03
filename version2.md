@@ -160,7 +160,7 @@ Participants heard three audio stimuli in each trial: A, B, and X.
 
 The mean accuracy score for /ʊ/-related ABX trials will be calculated per participant.
 
-### B. Inferential Statistics: One-sample t-test – ABX Perception Accuracy vs. Chance Level (50%)
+#### B. Inferential Statistics: One-sample t-test – ABX Perception Accuracy vs. Chance Level (50%)
 
 To determine whether learners' perception accuracy exceeded chance levels, a **one-sample t-test** was conducted for each /ʊ/-related ABX contrast.  
 The null hypothesis assumed that learners' accuracy was no different from chance (50%).  
