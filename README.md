@@ -16,35 +16,33 @@ This study aims to investigate whether Korean learners of English can accurately
 
 ### 1.1. Task Procedure
 
-Participants were asked to read aloud 5 to 6 sentences containing target words with the vowel **/ʊ/**.  
-Example target words: *book*, *foot*, *good*, *could*, *would*
+Participants were asked to read aloud 5–6 sentences containing target words with the vowel **/ʊ/**.  
+Target words included: *book*, *foot*, *good*, *could*, *would*
 
 > **Example sentence**:  
 > *I would like to buy the book now.*
 
-To prevent task awareness effects, the production task was introduced as a simple reading activity. Participants were **not informed** of the experimental focus on /ʊ/, and the presence of target words was not disclosed.
+To avoid experimental awareness, participants were told this was a simple reading task.  
+No mention of target vowels or the study's aim was given.
 
 ---
 
 ### 1.2. Acoustic Analysis
 
-Recordings were segmented and analyzed using **Praat**. For each target word, the vowel segment was isolated, and the first and second formants (**F1** and **F2**) were measured at the midpoint of the vowel duration.
-
-**Reference values** (based on native speaker data) were used to compare learner production.
+Each vowel token was segmented and analyzed in **Praat**.  
+The formant values (**F1** and **F2**) were extracted at the temporal midpoint of each vowel.
 
 | Vowel | F1 (Height) | F2 (Backness) | Notes |
-|-------|-------------|----------------|-------|
-| /ʊ/   | Medium       | Medium–Low      | Short, lax vowel |
-| /u/   | Low          | Low             | Long, tense vowel |
-| /o/   | Medium       | Higher than /u/ | Often diphthongized (e.g., /oʊ/) |
+|-------|-------------|----------------|-----------------------------|
+| /ʊ/   | Medium       | Medium–Low      | Short, lax vowel            |
+| /u/   | Low          | Low             | Long, tense vowel           |
+| /o/   | Medium       | Higher than /u/ | Often realized as /oʊ/ glide |
 
 ---
 
 ### 1.3. Statistical Analysis
 
 #### A. Descriptive Statistics
-
-**Objective**: To examine the frequency with which /ʊ/ was substituted in learner speech.
 
 | Realized As | Frequency |
 |-------------|-----------|
@@ -56,36 +54,93 @@ Recordings were segmented and analyzed using **Praat**. For each target word, th
 
 #### B. Inferential Statistics
 
+| Analysis         | Research Question                                             | Data Type         | Example                |
+|------------------|----------------------------------------------------------------|--------------------|------------------------|
+| **Chi-square test** | Which vowel is most frequently substituted for /ʊ/?            | Categorical (counts) | [ʊ]: 40, [u]: 60, [o]: 20 |
+| **One-way ANOVA**   | Are the acoustic features (F1/F2) of [ʊ], [u], [o] significantly different? | Continuous (formant values) | Compare F1/F2 means |
+
 ##### (1) Chi-Square Test
 
-**Purpose**  
-To test whether the distribution of substituted vowels ([ʊ], [u], [o]) is statistically different.
-
-- **H₀ (Null Hypothesis)**: There is **no significant difference** in substitution frequency.
-- **H₁ (Alternative Hypothesis)**: One or more substitutions occur **significantly more frequently** than others.
+- **H₀**: There is no significant difference in substitution frequency.
+- **H₁**: Certain substitutions (e.g., [u], [o]) are more frequent than others.
 
 **Interpretation Example**  
-> "Learners substituted [u] significantly more often than [ʊ] itself when attempting to produce /ʊ/."  
-> → Suggests a clear **mispronunciation trend**.
+> Learners substituted [u] significantly more often than [ʊ] when attempting to pronounce /ʊ/.
 
 ---
 
-##### (2) Formant Comparison (One-Way ANOVA)
+##### (2) ANOVA (F1/F2)
 
-**Purpose**  
-To determine whether the formant values (F1, F2) of realized vowels **[ʊ]**, **[u]**, and **[o]** differ significantly.
-
-- **Dependent Variable**: F1 or F2
-- **Independent Variable**: Realized vowel category ([ʊ], [u], [o])
-- **Method**: One-Way ANOVA
+- **DV**: F1 or F2  
+- **IV**: Realized vowel category ([ʊ], [u], [o])  
+- **Method**: One-way ANOVA
 
 **Interpretation Example**  
-> "F2 values showed that [ʊ] and [u] were significantly different (p < .05), but [ʊ] and [o] were not."  
-> → Indicates that learners **do not clearly distinguish [ʊ] and [o]** acoustically in their production.
+> Based on F2 values, [ʊ] and [u] were significantly different, but [ʊ] and [o] were not.  
+> → Learners may not acoustically distinguish [ʊ] from [o].
 
 ---
 
-Let me know if you’d like to continue with `Step 2. Perception Task` in the same format!
+## Step 2. Perception Task (ABX Test)
 
+### 2.1. Task Overview
 
+Participants heard three audio stimuli in each trial: A, B, and X.  
+- X matched either A or B in vowel quality (/ʊ/, /u/, /o/)  
+- All three were different words  
+- The task:  
+  > **“Which one is X more similar to, A or B?”**
+
+---
+
+### 2.2. Stimulus Examples
+
+| A–B Pair        | X Stimulus | Target Vowel | Correct Answer |
+|-----------------|------------|---------------|----------------|
+| *book* vs *boot* | *could*     | /ʊ/           | A              |
+| *foot* vs *food* | *good*      | /ʊ/           | A              |
+| *book* vs *boat* | *would*     | /ʊ/           | A              |
+| *could* vs *coat*| *foot*      | /ʊ/           | A              |
+| *blue* vs *good* | *boot*      | /u/           | A              |
+| *would* vs *wrote*| *book*     | /ʊ/           | A              |
+
+---
+
+### 2.3. Experiment Design
+
+| Element          | Details |
+|------------------|---------|
+| Total items      | 6–9 items (3 vowel pairs × 2–3 trials each) |
+| Stimuli          | Native speaker recordings or TTS |
+| Presentation     | A–B–X (randomized order, e.g., ABX or BAX) |
+| Task             | “Which one is X more similar to, A or B?” |
+| Scoring          | Accuracy (%) per vowel pair |
+
+---
+
+### 2.4. Statistical Analysis
+
+**Goal**: Compare discrimination accuracy across vowel pairs.
+
+#### Analysis Type: Repeated Measures ANOVA (RMA)
+
+| Vowel Pair   | Accuracy (%) Example |
+|--------------|----------------------|
+| /ʊ/-/u/      | 66.7%                |
+| /ʊ/-/o/      | 52.0%                |
+| /u/-/o/      | 80.3%                |
+
+#### Why use RMA?
+
+| Condition                       | Satisfied? | Reason |
+|--------------------------------|------------|--------|
+| DV is continuous               | ✅         | Accuracy % |
+| IV is categorical (3 vowel pairs) | ✅         | Within-subject factor |
+| Same participant, multiple conditions | ✅         | Repeated design |
+
+**Interpretation Example**  
+> Participants performed significantly worse on /ʊ/-/o/ discrimination than on /ʊ/-/u/ and /u/-/o/.  
+> → Suggests /ʊ/ and /o/ are the most confusable pair.
+
+---
 
