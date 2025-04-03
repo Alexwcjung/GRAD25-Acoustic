@@ -85,7 +85,6 @@ Both **Chi-square** and **ANOVA** are inferential statistical tests that determi
 | **Chi-square** | Which vowel is most frequently produced by learners? | → Tests whether the difference in production frequency is statistically significant (i.e., not due to chance) |
 | **ANOVA**      | How do the learners' vowel productions differ acoustically? | → Tests whether the mean F1/F2 values of [ʊ], [u], and [o] differ significantly |
 
-------
 
 ## Step 2. Perception Task (ABX Test)
 
@@ -97,7 +96,6 @@ Participants heard three audio stimuli in each trial: A, B, and X.
 - The task:  
   > **“Which one is X more similar to, A or B?”**
 
----
 
 ### 2.2. Stimulus Examples
 
@@ -110,7 +108,6 @@ Participants heard three audio stimuli in each trial: A, B, and X.
 | *blue* vs *good* | *boot*      | /u/           | A              |
 | *would* vs *wrote*| *book*     | /ʊ/           | A              |
 
----
 
 ### 2.3. Experiment Design
 
@@ -122,7 +119,6 @@ Participants heard three audio stimuli in each trial: A, B, and X.
 | Task             | “Which one is X more similar to, A or B?” |
 | Scoring          | Accuracy (%) per vowel pair |
 
----
 
 ### 2.4. Statistical Analysis
 
