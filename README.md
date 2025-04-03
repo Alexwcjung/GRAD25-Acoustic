@@ -45,11 +45,11 @@ A reference vowel space was established using **native-speaker values**, against
 #### A. Descriptive Statistics
 > **Example**:  
 >
-  | Realized Vowel | Frequency |
-  |----------------|-----------|
-  | [ʊ]            | 160       |
-  | [u]            | 90        |
-  | [o]            | 50        |
+>  | Realized Vowel | Frequency |
+>  |----------------|-----------|
+>  | [ʊ]            | 160       |
+>  | [u]            | 90        |
+>  | [o]            | 50        |
 
 #### B. Inferential Statistics
 
