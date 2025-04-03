@@ -163,7 +163,6 @@ The mean accuracy score for /ʊ/-related ABX trials will be calculated per parti
 #### B. Inferential Statistics: One-sample t-test – ABX Perception Accuracy vs. Chance Level (50%)
 
 To determine whether learners' perception accuracy exceeded chance levels, a **one-sample t-test** was conducted for each /ʊ/-related ABX contrast.  
-The null hypothesis assumed that learners' accuracy was no different from chance (50%).  
 The 50% threshold represents the **chance level** in an ABX discrimination task, meaning that participants would be expected to perform at this level if they were simply guessing.
 
 ####  Example Table: One-sample t-test Results
