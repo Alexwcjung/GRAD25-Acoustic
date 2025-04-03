@@ -160,13 +160,23 @@ Participants heard three audio stimuli in each trial: A, B, and X.
 
 The mean accuracy score for /ʊ/-related ABX trials will be calculated per participant.
 
-#### B. Inferential Statistics : One-sample t-test – ABX Perception Accuracy vs. Chance Level (50%)
-### Example Table
+### B. Inferential Statistics: One-sample t-test – ABX Perception Accuracy vs. Chance Level (50%)
 
-| Vowel Pair   | Mean Accuracy (%) | t-value | df | p-value | Interpretation                                |
-|--------------|--------------------|---------|----|---------|-----------------------------------------------|
-| /ʊ/-/u/      | 68.2               | 4.35    | 19 | .0003   | Significantly above chance → discrimination successful |
-| /ʊ/-/o/      | 55.6               | 1.89    | 19 | .075    | Not significantly different from chance → possible confusion |
+To determine whether learners' perception accuracy exceeded chance levels, a **one-sample t-test** was conducted for each /ʊ/-related ABX contrast.  
+The null hypothesis assumed that learners' accuracy was no different from chance (50%).  
+The 50% threshold represents the **chance level** in an ABX discrimination task, meaning that participants would be expected to perform at this level if they were simply guessing.
+
+####  Example Table: One-sample t-test Results
+
+| Vowel Pair   | Mean Accuracy (%) | t-value | df | p-value | Interpretation                                           |
+|--------------|--------------------|---------|----|---------|----------------------------------------------------------|
+| /ʊ/-/u/      | 68.2               | 4.35    | 19 | .0003   | **Significantly above chance** → Discrimination successful |
+| /ʊ/-/o/      | 55.6               | 1.89    | 19 | .075    | **Not significantly different from chance** → Possible confusion |
+
+#### Interpretation Notes:
+- The high accuracy for /ʊ/-/u/ indicates that most learners were able to reliably discriminate these two vowels.
+- The non-significant result for /ʊ/-/o/ suggests greater perceptual overlap and confusion between /ʊ/ and /o/.
+
 
 
 > The average accuracy on /ʊ/-related ABX items will serve as each participant’s **perception score of /ʊ/**.
